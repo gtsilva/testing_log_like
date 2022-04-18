@@ -6,7 +6,17 @@
     <description>Recent content on Testing blog style sites for documentation purposes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 20:43:33 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 20:56:13 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 04 18 Testing Latex</title>
+      <link>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-testing-latex/</link>
+      <pubDate>Mon, 18 Apr 2022 20:56:13 +0200</pubDate>
+      
+      <guid>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-testing-latex/</guid>
+      <description>Nowe we test Latex on this thing.
+$$V_{sphere} = \frac{4}{3}\pi r^3$$</description>
+    </item>
+    
     <item>
       <title>2022 04 18 This Is How a Post Will Look Like</title>
       <link>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-this-is-how-a-post-will-look-like/</link>

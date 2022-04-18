@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-this-is-how-a-post-will-look-like/</loc>
-    <lastmod>2022-04-18T20:43:33+02:00</lastmod>
+    <loc>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-testing-latex/</loc>
+    <lastmod>2022-04-18T20:56:13+02:00</lastmod>
   </url><url>
     <loc>https://gtsilva.github.io/testing_log_like/posts/</loc>
-    <lastmod>2022-04-18T20:43:33+02:00</lastmod>
+    <lastmod>2022-04-18T20:56:13+02:00</lastmod>
   </url><url>
     <loc>https://gtsilva.github.io/testing_log_like/</loc>
+    <lastmod>2022-04-18T20:56:13+02:00</lastmod>
+  </url><url>
+    <loc>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-this-is-how-a-post-will-look-like/</loc>
     <lastmod>2022-04-18T20:43:33+02:00</lastmod>
   </url><url>
     <loc>https://gtsilva.github.io/testing_log_like/posts/this_is_a_test/</loc>
