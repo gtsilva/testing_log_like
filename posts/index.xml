@@ -15,7 +15,10 @@
       <guid>https://gtsilva.github.io/testing_log_like/posts/latex-test/</guid>
       <description>The following
 $$\int_{a}^{b} x^2 dx$$
-Is an integral</description>
+Is an integral
+This is another part of the post
+[[This is two]]
+This is two</description>
     </item>
     
     <item>
