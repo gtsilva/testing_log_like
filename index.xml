@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testing blog style sites for documentation purposes</title>
+    <title>This is a test</title>
     <link>https://gtsilva.github.io/testing_log_like/</link>
-    <description>Recent content on Testing blog style sites for documentation purposes</description>
+    <description>Recent content on This is a test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Apr 2022 21:22:11 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
