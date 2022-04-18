@@ -6,7 +6,16 @@
     <description>Recent content on Testing blog style sites for documentation purposes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 20:33:48 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 20:43:33 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 04 18 This Is How a Post Will Look Like</title>
+      <link>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-this-is-how-a-post-will-look-like/</link>
+      <pubDate>Mon, 18 Apr 2022 20:43:33 +0200</pubDate>
+      
+      <guid>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-this-is-how-a-post-will-look-like/</guid>
+      <description>this is yet another attempt of a post now with a different naming convetion.</description>
+    </item>
+    
     <item>
       <title>This_is_a_test</title>
       <link>https://gtsilva.github.io/testing_log_like/posts/this_is_a_test/</link>
