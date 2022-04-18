@@ -6,7 +6,18 @@
     <description>Recent content on This is a test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 21:22:11 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 23:23:41 +0200</lastBuildDate><atom:link href="https://gtsilva.github.io/testing_log_like/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latex Test</title>
+      <link>https://gtsilva.github.io/testing_log_like/posts/latex-test/</link>
+      <pubDate>Mon, 18 Apr 2022 23:23:41 +0200</pubDate>
+      
+      <guid>https://gtsilva.github.io/testing_log_like/posts/latex-test/</guid>
+      <description>The following
+$$\int_{a}^{b} x^2 dx$$
+Is an integral</description>
+    </item>
+    
     <item>
       <title>2022 04 18 Long Text</title>
       <link>https://gtsilva.github.io/testing_log_like/posts/2022-04-18-long-text/</link>
